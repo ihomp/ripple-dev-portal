@@ -12,7 +12,7 @@ labels:
 
 The following is a comprehensive list of all known [amendments](amendments.html) and their status on the production XRP Ledger:
 
-**Tip:** This list is updated manually. For a live view of amendment voting, see the [XRPScan Amendments Dashboard](https://xrpscan.com/amendments).
+**Tip:** This list is updated manually. For a live view of amendment voting, see the [XRPScan Amendments Dashboard](https://xrpscan.com/amendments) or [Bithomp amendments page](https://bithomp.com/amendments).
 
 | Name                              | Introduced | Status                        |
 |:----------------------------------|:-----------|:------------------------------|
